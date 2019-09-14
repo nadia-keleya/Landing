@@ -1,0 +1,62 @@
+#header{
+	background-image: url(https://images.unsplash.com/photo-1460411794035-42aac080490a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80);
+	padding: 30px;
+}
+
+#subtitle{
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+}
+
+
+body{
+	background: rgb(240,240,240)
+	color: #f7e8f6;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	}
+
+h1{
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: 1px;
+	font-size: 50px;
+	color: white;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	}
+
+h2{
+	font-family: 'Open Sans', sans-serif;
+	color: #bd83ce;
+	margin-top: 2px;
+}
+
+.copy p {
+	color: purple;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+
+footer{
+	background-color: #b67cb6;
+	margin-top: 100px;
+	padding: 40px;
+}
+
+.footercopy{
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+.social{
+	color: white;
+	font-size: 40px;
+}
+
+.socials{
+	text-align: center;
+	word-spacing: 20px;
+}
